@@ -1,0 +1,7 @@
+C:\Users\Максим\source\repos\Task3.6\Task3.6\bin\Debug\Task3.6.exe.config
+C:\Users\Максим\source\repos\Task3.6\Task3.6\bin\Debug\Task3.6.exe
+C:\Users\Максим\source\repos\Task3.6\Task3.6\bin\Debug\Task3.6.pdb
+C:\Users\Максим\source\repos\Task3.6\Task3.6\obj\Debug\Task3.6.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Task3.6\Task3.6\obj\Debug\Task3.6.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Task3.6\Task3.6\obj\Debug\Task3.6.exe
+C:\Users\Максим\source\repos\Task3.6\Task3.6\obj\Debug\Task3.6.pdb
